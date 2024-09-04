@@ -1,0 +1,45 @@
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\appsettings.json
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Kabras Gaming.exe
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Kabras Gaming.deps.json
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Kabras Gaming.runtimeconfig.json
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Kabras Gaming.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Kabras Gaming.pdb
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.csproj.AssemblyReference.cache
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.AssemblyInfoInputs.cache
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.AssemblyInfo.cs
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\staticwebassets\msbuild.Kabras Gaming.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\staticwebassets\msbuild.build.Kabras Gaming.props
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Kabras Gaming.props
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Kabras Gaming.props
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\scopedcss\bundle\Kabras Gaming.styles.css
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras G.F0585A58.Up2Date
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\refint\Kabras Gaming.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.pdb
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\Kabras Gaming.genruntimeconfig.cache
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\obj\Debug\net8.0\ref\Kabras Gaming.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\Snappier.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Oscar Arciniegas\source\repos\Kabras Gaming\Kabras Gaming\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kabras Gaming.props" />
+</Project>
