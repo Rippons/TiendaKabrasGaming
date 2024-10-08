@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kabras Gaming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8adbd6f134cfc13fe135282be8bf8ab03d26f026")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kabras Gaming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kabras Gaming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -88,10 +88,9 @@ namespace Kabras_Gaming.Controllers
 
             if (data is null)
             {
-
                 return BadRequest("El producto no existe");
-
             }
+
             data.Nombre = request.Nombre;
             data.Descripcion = request.Descripcion;
             data.Precio = request.Precio;

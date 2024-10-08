@@ -4,6 +4,7 @@ namespace Kabras_Gaming.DTOS
 {
     public class CreateproductoDTO
     {
+        [Required]
         public string Id { get; set; }
         [Required]
 

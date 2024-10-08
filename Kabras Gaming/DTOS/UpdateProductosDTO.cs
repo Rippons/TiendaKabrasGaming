@@ -4,9 +4,10 @@ namespace Kabras_Gaming.DTOS
 {
     public class UpdateProductosDTO
     {
+        [Required]
+      
         public string Id { get; set; }
         [Required]
-
         public string Nombre { get; set; }
 
 
