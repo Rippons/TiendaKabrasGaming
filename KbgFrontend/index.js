@@ -15,7 +15,12 @@ app.get("/products", (req,res)=>{
 app.get("/producto", (req,res)=>{
     res.sendFile(process.cwd() + '/public/views/product.html')
 })
-
+app.get("/login", (req,res)=>{
+    res.sendFile(process.cwd() + '/public/views/Login.html')
+})
+app.get("/Register", (req,res)=>{
+    res.sendFile(process.cwd() + '/public/views/register.html')
+})
 
 app.listen(PORT, ()=>{
     console.log("Server on port ", PORT);

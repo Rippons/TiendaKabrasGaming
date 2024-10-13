@@ -18,14 +18,6 @@ namespace Kabras_Gaming.Controllers
             _producRepository = ProducRepository;
         }
 
-        //        // GET: api/<productosController>
-        //        [HttpGet]
-        //        public IEnumerable<string> Get()
-        //        {
-        //            return new string[] { "value1", "value2" };
-        //        }
-
-
 
         [HttpGet]
         public IActionResult GetAll()

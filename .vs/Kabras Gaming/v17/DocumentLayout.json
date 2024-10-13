@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\data\\repositories\\producrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\data\\repositories\\producrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\dtos\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\dtos\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\dtos\\updateproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\dtos\\updateproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\data\\repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\data\\repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\dtos\\updateproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\dtos\\updateproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\data\\repositories\\producrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\data\\repositories\\producrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\data\\repositories\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\data\\repositories\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\dtos\\createproductodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +55,20 @@
       "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\data\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\data\\repositories\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\data\\repositories\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\controllers\\data\\models\\mongodbsettings.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\controllers\\data\\models\\mongodbsettings.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\kabras gaming.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\kabras gaming.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|c:\\users\\oscar arciniegas\\source\\repos\\kabras gaming\\kabras gaming\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C646EDE-B0C8-47FF-93CA-C2AEA9D79CF4}|Kabras Gaming\\Kabras Gaming.csproj|solutionrelative:kabras gaming\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,40 +78,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProducRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\ProducRepository.cs",
-              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\Data\\Repositories\\ProducRepository.cs",
-              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\ProducRepository.cs",
-              "RelativeToolTip": "Kabras Gaming\\Controllers\\Data\\Repositories\\ProducRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\DTOS\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\DTOS\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\DTOS\\LoginDTO.cs",
+              "RelativeToolTip": "Kabras Gaming\\DTOS\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T22:29:51.249Z",
+              "WhenOpened": "2024-10-13T07:15:01.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Kabras Gaming\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:48:30.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Program.cs",
-              "RelativeDocumentMoniker": "Kabras Gaming\\Program.cs",
-              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Program.cs",
-              "RelativeToolTip": "Kabras Gaming\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Title": "productosController.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\productosController.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\productosController.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\productosController.cs",
+              "RelativeToolTip": "Kabras Gaming\\Controllers\\productosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T20:56:59.607Z"
+              "WhenOpened": "2024-09-01T23:18:36.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Kabras Gaming\\Controllers\\Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:51:22.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UpdateProductosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\DTOS\\UpdateProductosDTO.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\DTOS\\UpdateProductosDTO.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\DTOS\\UpdateProductosDTO.cs",
+              "RelativeToolTip": "Kabras Gaming\\DTOS\\UpdateProductosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:48:08.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\DTOS\\CreateUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\DTOS\\CreateUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\DTOS\\CreateUsuarioDTO.cs",
+              "RelativeToolTip": "Kabras Gaming\\DTOS\\CreateUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:45:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:40:21.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IProductoRepository.cs",
+              "RelativeToolTip": "Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T00:27:37.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProducRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\ProducRepository.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\Data\\Repositories\\ProducRepository.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\ProducRepository.cs",
+              "RelativeToolTip": "Kabras Gaming\\Controllers\\Data\\Repositories\\ProducRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T00:27:38.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CreateproductoDTO.cs",
               "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\DTOS\\CreateproductoDTO.cs",
               "RelativeDocumentMoniker": "Kabras Gaming\\DTOS\\CreateproductoDTO.cs",
@@ -79,56 +215,99 @@
               "RelativeToolTip": "Kabras Gaming\\DTOS\\CreateproductoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T23:13:21.152Z"
+              "WhenOpened": "2024-09-01T23:13:21.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\Data\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Models\\Usuario.cs",
+              "RelativeToolTip": "Kabras Gaming\\Controllers\\Data\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:39:05.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Program.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Program.cs",
+              "RelativeToolTip": "Kabras Gaming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:56:59.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "producto.cs",
               "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Models\\producto.cs",
               "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\Data\\Models\\producto.cs",
               "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Models\\producto.cs",
               "RelativeToolTip": "Kabras Gaming\\Controllers\\Data\\Models\\producto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T21:45:41.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "productosController.cs",
-              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\productosController.cs",
-              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\productosController.cs",
-              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\productosController.cs",
-              "RelativeToolTip": "Kabras Gaming\\Controllers\\productosController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAhwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T23:18:36.173Z",
+              "WhenOpened": "2024-10-13T00:27:54.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateProductosDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\DTOS\\UpdateProductosDTO.cs",
-              "RelativeDocumentMoniker": "Kabras Gaming\\DTOS\\UpdateProductosDTO.cs",
-              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\DTOS\\UpdateProductosDTO.cs",
-              "RelativeToolTip": "Kabras Gaming\\DTOS\\UpdateProductosDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "MongoDBSettings.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Models\\MongoDBSettings.cs.cs",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\Data\\Models\\MongoDBSettings.cs.cs",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Models\\MongoDBSettings.cs.cs",
+              "RelativeToolTip": "Kabras Gaming\\Controllers\\Data\\Models\\MongoDBSettings.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:48:08.794Z"
+              "WhenOpened": "2024-10-13T00:27:45.942Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IProductoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IProductoRepository.cs",
-              "RelativeDocumentMoniker": "Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IProductoRepository.cs",
-              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IProductoRepository.cs",
-              "RelativeToolTip": "Kabras Gaming\\Controllers\\Data\\Repositories\\Interfaces\\IProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T22:16:04.656Z"
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Kabras Gaming\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\appsettings.Development.json",
+              "RelativeToolTip": "Kabras Gaming\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T01:23:39.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kabras Gaming.http",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Kabras Gaming.http",
+              "RelativeDocumentMoniker": "Kabras Gaming\\Kabras Gaming.http",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\Kabras Gaming.http",
+              "RelativeToolTip": "Kabras Gaming\\Kabras Gaming.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-13T01:21:54.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\appsettings.json",
+              "RelativeDocumentMoniker": "Kabras Gaming\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oscar Arciniegas\\source\\repos\\Kabras Gaming\\Kabras Gaming\\appsettings.json",
+              "RelativeToolTip": "Kabras Gaming\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T23:22:23.133Z",
+              "EditorCaption": ""
             }
           ]
         }

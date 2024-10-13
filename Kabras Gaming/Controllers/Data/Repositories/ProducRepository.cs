@@ -1,5 +1,7 @@
 ﻿using Kabras_Gaming.Controllers.Data.Models;
 using Kabras_Gaming.Controllers.Data.Repositories.Interfaces;
+using MongoDB.Bson.Serialization.Attributes;
+using MongoDB.Bson;
 using MongoDB.Driver;
 
 namespace Kabras_Gaming.Controllers.Data.Repositories
@@ -49,6 +51,7 @@ namespace Kabras_Gaming.Controllers.Data.Repositories
             var result = await _productos.DeleteOneAsync(p => p.Id == id);
             return result.IsAcknowledged && result.DeletedCount > 0;
         }
-
+       
     }
 }
+    

@@ -1,40 +1,49 @@
 using Kabras_Gaming.Controllers.Data.Repositories;
 using Kabras_Gaming.Controllers.Data.Repositories.Interfaces;
 using MongoDB.Driver;
+using Microsoft.Extensions.Options;
+using UserAuthApp.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Configurar MongoDB
+builder.Services.Configure<MongoDBSettings>(
+    builder.Configuration.GetSection("MongoDBSettings"));
 
+// Registrar IMongoClient como Singleton
+builder.Services.AddSingleton<IMongoClient>(s =>
+{
+    var settings = s.GetRequiredService<IOptions<MongoDBSettings>>().Value;
+    return new MongoClient(settings.ConnectionString);
+});
+
+// Registrar IUserRepository e implementación UserRepository
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>(); // Agregar esta línea para el repositorio de usuarios
+
+// Registrar IProductoRepository e implementación ProducRepository
+builder.Services.AddScoped<IProductoRepository, ProducRepository>();
+
+// Configurar CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins", builder =>
+    {
+        builder.AllowAnyOrigin()
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
+
+// Añadir servicios de controladores
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+// Configurar Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
-IMongoClient mongoClient = new MongoClient("mongodb://127.0.0.1:27017/");
-
-builder.Services.AddSingleton(mongoClient);
-
-builder.Services.AddScoped<IProductoRepository, ProducRepository>();
-
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowAllOrigins",
-        builder =>
-        {
-            builder.AllowAnyOrigin()
-                   .AllowAnyMethod()
-                   .AllowAnyHeader();
-        });
-});
-
-
-
 var app = builder.Build();
 
-
-// Configure the HTTP request pipeline.
+// Configurar el pipeline de solicitudes
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -42,11 +51,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors("AllowAllOrigins");
-
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();
+
+
